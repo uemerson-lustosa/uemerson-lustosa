@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, C e Java.</strong>.<br>
+  🦄 Linguagens: <strong>Python, C e Java</strong>.<br>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Eclipse, VS Code e Figma.</strong>.<br>
+  💼 Ferramentas: <strong>Eclipse, VS Code e Figma</strong>.<br>
 </p>
 
 <p align="left">
