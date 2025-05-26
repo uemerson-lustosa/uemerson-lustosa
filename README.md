@@ -30,4 +30,6 @@
   <a href="https://instagram.com/lustosauz">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white">
   </a>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemerson-lustosa&layout=compact)
 </p>
