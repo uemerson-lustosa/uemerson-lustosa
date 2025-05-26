@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Olá, me chamo Uemerson Lustosa.
-  Atualmente estou cursando Ciência da Computação, na Universidade Estadual da Paraíba - UEPB.
-  Estou no Terceiro Período.
+  Atualmente estou cursando Ciência da Computação, na Universidade Estadual da Paraíba - UEPB - Terceiro Período.
   Tenho interesse em <strong>Desenvolvimento Full-Stack</strong>.<br>
 </p>
 
