@@ -10,7 +10,7 @@
 
 <p align="left">
   🦄 Linguagens: <strong>Python, C e Java</strong>.<br>
-  [![My Skills](https://skillicons.dev/icons?i=python, c, java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 </p>
 
 <p align="left">
