@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- #  System.out.println("Hello World");\n
+ #  System.out.println("Hello World");
+ ```
   Olá, me chamo Uemerson Lustosa.
   Atualmente estou cursando Ciência da Computação, na Universidade Estadual da Paraíba - UEPB - Terceiro Período.
   Tenho interesse em <strong>Desenvolvimento Full-Stack</strong>.<br>
