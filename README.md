@@ -1,4 +1,4 @@
-<img src="![Computer project](programmer.png)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="(programmer.png)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   <code>System.out.println("Hello World");</code><br>
