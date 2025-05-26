@@ -30,7 +30,6 @@
   <a href="https://instagram.com/lustosauz">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white">
   </a>
-
-  [![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
+  
   ![{usuario} GitHub stats](https://github-readme-stats.vercel.app/api?username=uemerson-lustosa&show_icons=true&theme=transparent)
 </p>
