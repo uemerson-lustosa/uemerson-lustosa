@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, C e Java</strong>.<br>
+  💻 Linguagens: <strong>Python, C e Java</strong>.<br>
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💌 Meus contatos: ⤵️
+  📩 Meus contatos: ⤵️
 </p>
 
 <p align="left">
