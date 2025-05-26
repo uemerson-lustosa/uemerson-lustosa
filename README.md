@@ -22,7 +22,8 @@
 
 <p align="left">
   [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:uemerson.luustosa@gmail.com)&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uemerson-lustosa)&nbsp;
-  [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white)](https://instagram.com/lustosauz)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uemerson-lustosa)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white)](https://instagram.com/lustosauz);
+
 </p>
 
