@@ -4,7 +4,7 @@
   <code>System.out.println("Hello World");</code><br>
 
   Olá, me chamo Uemerson Lustosa.<br>
-  Atualmente estou cursando Ciência da Computação, na Universidade Estadual da Paraíba - UEPB - Terceiro Período.<br>
+  Atualmente estou cursando Ciência da Computação, na Universidade Estadual da Paraíba - UEPB.<br>
   Tenho interesse em <strong>Desenvolvimento Full-Stack</strong>.<br>
 </p>
 
