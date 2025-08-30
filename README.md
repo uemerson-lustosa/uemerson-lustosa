@@ -3,9 +3,8 @@
 <p align="left"> 
   <code>System.out.println("Hello World");</code><br>
 
-  Olá, me chamo Uemerson Lustosa.<br>
-  Atualmente estou cursando Ciência da Computação, na Universidade Estadual da Paraíba - UEPB.<br>
-  Tenho interesse em <strong>Desenvolvimento Full-Stack</strong>.<br>
+  Hello, my name is Uemerson Lustosa. I am currently studying Computer Science at the State University of Paraíba - UEPB.
+  I am interested in Full-Stack Development.</strong>.<br>
 </p>
 
 <p align="left">
