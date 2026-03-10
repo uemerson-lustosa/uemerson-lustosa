@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Eclipse, VS Code e Figma, Photoshop, Illustrattor</strong>.<br>
+  💼 Ferramentas: <strong>Eclipse, VS Code, Figma, Photoshop, Illustrattor</strong>.<br>
 </p>
 
 <p align="left">
