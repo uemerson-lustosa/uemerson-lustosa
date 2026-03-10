@@ -3,8 +3,8 @@
 <p align="left"> 
   <code>System.out.println("Hello World");</code><br>
 
-  Hello, my name is Uemerson Lustosa. I am currently studying Computer Science at the State University of Paraíba - UEPB.
-  I am interested in Full-Stack Development.</strong>.<br>
+  Olá, me chamo Uemerson Lusatosa.. Sou graduando em Ciência da Computação na Universidade Estadual da Paraíba - UEPB.
+  Tenho interesse em desenvolvimento Full-Stack e UX e UI Design.</strong>.<br>
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Eclipse, VS Code e Figma</strong>.<br>
+  💼 Ferramentas: <strong>Eclipse, VS Code e Figma, Photoshop, Illustrattor</strong>.<br>
 </p>
 
 <p align="left">
