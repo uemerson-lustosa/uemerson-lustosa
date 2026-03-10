@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/uemerson-lustosa-2697692a5">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/lustosauz">
+  <a href="https://instagram.com/messin.dsgn">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white">
   </a>
   
