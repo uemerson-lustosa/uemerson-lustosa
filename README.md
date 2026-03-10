@@ -3,7 +3,7 @@
 <p align="left"> 
   <code>System.out.println("Hello World");</code><br>
 
-  Olá, me chamo Uemerson Lustosa.. Sou graduando em Ciência da Computação na Universidade Estadual da Paraíba - UEPB.
+  Olá, me chamo Uemerson Lustosa. Sou graduando em Ciência da Computação na Universidade Estadual da Paraíba - UEPB.
   Tenho interesse em desenvolvimento Full-Stack e UX e UI Design.</strong>.<br>
 </p>
 
